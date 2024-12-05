@@ -1,1 +1,3 @@
-# Python_programming
+# Python_programming 
+
+## Training session Day - 1 : PYTHON 
