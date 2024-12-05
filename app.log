@@ -1,0 +1,5 @@
+2024-12-06 01:00:25,981 - INFO - Hello, World!
+2024-12-06 01:01:04,892 - INFO - Currently doing assignments
+2024-12-06 01:02:29,322 - INFO - Hello, World!
+2024-12-06 01:03:27,022 - ERROR - An error occurred: ZeroDivisionError - division by zero
+2024-12-06 01:05:04,002 - ERROR - An error occurred: ZeroDivisionError - division by zero
