@@ -1,4 +1,4 @@
 # Python_programming 
 
 ## Training session Day - 1 : PYTHON 
-### Please note that the preview file do not show the complete file, download the raw file
+#### Please download the raw file to view the complete file, as the preview is not showing the entire file.
